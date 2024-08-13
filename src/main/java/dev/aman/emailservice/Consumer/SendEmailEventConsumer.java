@@ -51,7 +51,7 @@ public class SendEmailEventConsumer {
         Authenticator auth = new Authenticator() {
             //override the getPasswordAuthentication method
             protected PasswordAuthentication getPasswordAuthentication() {
-                return new PasswordAuthentication(from, "eoggdbuxkztasmal");
+                return new PasswordAuthentication(from, "eoggdbuxkztasmal"); // search gmail app password to create a temporary password from where you want to send the email
             }
         };
         Session session = Session.getInstance(props, auth);
