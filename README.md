@@ -48,3 +48,4 @@ The Email Service is designed to handle asynchronous email notifications using K
 - **[Product Service](https://github.com/AmanPr01/E-Commerce)**: Manages product information and operations.
 - **[User Service](https://github.com/AmanPr01/UserService)**: Manages user authentication and authorization.
 - **[Payment Service](https://github.com/AmanPr01/PaymentService)**: Manages payment processing and transactions.
+- **[Service Discovery](https://github.com/AmanPr01/ServiceDiscovery)**: Central registry for service registration and discovery, enabling dynamic interaction between microservices.
